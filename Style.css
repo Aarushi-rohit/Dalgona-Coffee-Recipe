@@ -1,0 +1,14 @@
+body {
+    background-color: peachpuff;
+}
+
+h2 {
+    color:brown ;
+    text-decoration: underline;
+}
+
+#button {
+    background-color:brown ;
+    padding: 5px;
+    colour: white;
+}
